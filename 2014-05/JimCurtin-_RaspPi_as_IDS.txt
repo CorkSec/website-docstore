@@ -1,0 +1,18 @@
+CS11 - Rasp Pi - Slides are available from here:
+http://prezi.com/uhwohxjboh3e/sid_blueprint/
+
+Video demos of the Rasp Pi - Safe Internet Device below. 
+1. A basic setup and introduction
+https://drive.google.com/file/d/0B7T1YmweucN3Mm5wYm9wRGt6TFU/edit?usp=sharing
+
+2. Connection to SID
+https://drive.google.com/file/d/0B7T1YmweucN3YTlMR1luREJRU28/edit?usp=sharing
+
+3. Parental and Web Content control
+https://drive.google.com/file/d/0B7T1YmweucN3Z1lpNmFlb0c0a3c/edit?usp=sharing
+
+4. Ad Blocking Feature
+https://drive.google.com/file/d/0B7T1YmweucN3ZVhkUWV6SlluRHM/edit?usp=sharing
+
+5. Intrusion Detection System and management:
+https://drive.google.com/file/d/0B7T1YmweucN3cmF5TWIwR1JyY1E/edit?usp=sharing
